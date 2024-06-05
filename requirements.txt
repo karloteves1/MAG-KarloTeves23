@@ -1,2 +1,2 @@
-mkdir flask_app
-cd flask_app
+Flask==2.0.1
+gunicorn
