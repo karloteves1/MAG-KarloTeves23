@@ -1,1 +1,2 @@
-pip install Flask
+mkdir flask_app
+cd flask_app
